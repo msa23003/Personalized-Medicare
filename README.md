@@ -1,4 +1,4 @@
-## Personalized Medicare ##
+## Personalized-Medicare ##
 
 This Streamlit application allows users to input symptoms and receive a predicted diagnosis based on a pre-trained Support Vector Classifier (SVC) model. Additionally, the app provides useful information such as disease description, precautions, medications, recommended diets, and workouts.
 
@@ -32,7 +32,7 @@ To run this application locally, follow these steps:
     ```
 
 ## Example
-Here are some screenshots of the application in action:
+Here is a screenshot of the application in action:
 
 ![image](https://github.com/user-attachments/assets/85b0b729-e709-4158-b14d-39f845c8e9de)
 
